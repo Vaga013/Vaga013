@@ -1,0 +1,7 @@
+{
+  "name": "VAGA013 - Intermediação P2P de Vagas",
+  "description": "Plataforma de intermediação de vagas de garagem em Santos e Baixada Santista.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
